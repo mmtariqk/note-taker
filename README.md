@@ -1,6 +1,9 @@
 
 # Note Taker APP in Express
 
+# Deployed on Heroku: https://still-woodland-21795.herokuapp.com/
+
+
 ## App Description
 
 This note taker application permits a user to save notes with a title and plain text. This application is created in EXPRESS JS. This app might seems simple but this is a full-fledged CRUD (Create READ UPDATE DELETE) application, because the Note Taker makes creating, viewing, and deleting notes very easily.
