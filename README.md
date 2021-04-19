@@ -18,6 +18,10 @@ First clone the repository to your local machine. Make sure to have package.json
 
 ## Screenshots:
 
+<img width="805" alt="Screen Shot 2021-04-19 at 11 32 43 AM" src="https://user-images.githubusercontent.com/77028806/115285714-0b361680-a103-11eb-8810-8cb02afc2c93.png">
+
+<img width="804" alt="Screen Shot 2021-04-19 at 11 32 09 AM" src="https://user-images.githubusercontent.com/77028806/115285739-12f5bb00-a103-11eb-958b-01d4f8214161.png">
+
 <img width="1168" alt="screenshot-1" src="https://user-images.githubusercontent.com/77028806/115182350-b2c53180-a08e-11eb-8da6-4c6c63e6ae85.png">
 
 <img width="501" alt="secreenshot-2" src="https://user-images.githubusercontent.com/77028806/115182374-be185d00-a08e-11eb-9a4e-dfa7d5823760.png">
